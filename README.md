@@ -3,6 +3,7 @@
 
 - Projects:
 - [VeilVox](https://github.com/harshit1142/VeilVox)
+- [Collabor8](https://github.com/harshit1142/collabor8)
 
 <p align="left">
 </p>
