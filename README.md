@@ -3,6 +3,8 @@
 
 - Projects:
 - [VeilVox](https://github.com/harshit1142/VeilVox)
+- [Tabster](https://github.com/lakshitrajput/Tabster)
+- [Wellness Wise](https://github.com/yash264/Wellness-Wise)
 - [Collabor8](https://github.com/harshit1142/collabor8)
 
 <p align="left">
