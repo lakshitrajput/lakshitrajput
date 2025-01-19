@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Lakshit Rajput</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- Projects:
+### Projects:
 - [VeilVox](https://github.com/harshit1142/VeilVox)
 - [Tabster](https://github.com/lakshitrajput/Tabster)
 - [Wellness Wise](https://github.com/yash264/Wellness-Wise)
 - [Collabor8](https://github.com/harshit1142/collabor8)
+  
+### Contributions:
+- [Chamber_of_Secrets](https://github.com/ContriHUB/Chamber_of_Secrets)
+- [CREDLOCKS](https://github.com/ContriHUB/CREDLOCKS)
+- [BookStore](https://github.com/harshit1142/BookStore)
+
 
 <p align="left">
 </p>
