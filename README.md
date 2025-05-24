@@ -5,6 +5,7 @@
 - [VeilVox](https://github.com/harshit1142/VeilVox)
 - [Tabster](https://github.com/lakshitrajput/Tabster)
 - [Wellness Wise](https://github.com/yash264/Wellness-Wise)
+- [Soloarise](https://github.com/lakshitrajput/soloarise)
 - [Collabor8](https://github.com/harshit1142/collabor8)
   
 ### Contributions:
